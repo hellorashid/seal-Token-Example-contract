@@ -1,7 +1,7 @@
 pragma solidity ^0.4.17;
 
 /**
- * hello :)
+ * hellooo :)
  * @title SafeMath
  * @dev Math operations with safety checks that throw on error
  */
